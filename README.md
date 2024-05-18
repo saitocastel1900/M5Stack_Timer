@@ -10,7 +10,7 @@ M5Stackに現在の時刻が表示されます。WiFIが接続できる環境が
   
 ## 使い方  
 1.SDフォルダあるWIFI.txtに、接続するWiFiのID・パスワードを記入する  
-2.SDカードに記入したWIFI.txtに移し、M5StackにSDカードを入れる
+2.SDカードに記入したWIFI.txtに移し、M5StackにSDカードを入れる  
 3.srcフォルダにあるmain.cppをコンパイルし、書き込む  
 
 ## ライセンス 
